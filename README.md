@@ -1,5 +1,4 @@
-member bot src code
-join discord.gg/protonservices
+member bot src code for charge
 
 credit 
-thank you pkrhs for the src
+yau, pk, dev, trxpz
